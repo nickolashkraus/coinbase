@@ -1,4 +1,4 @@
-module github.com/NickolasHKraus/coinbase
+module github.com/nickolashkraus/coinbase
 
 go 1.18
 
