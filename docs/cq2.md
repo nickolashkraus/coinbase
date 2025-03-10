@@ -31,5 +31,5 @@ findContiguousHistory(user3, user6) => ["/tan", "/red", "/amber"]
 
 Where,
 
-`n`: Length of the first user's browsing history
-`m`: Length of the second user's browsing history
+* `n`: Length of the first user's browsing history
+* `m`: Length of the second user's browsing history
