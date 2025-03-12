@@ -1,6 +1,11 @@
 # [Coinbase](https://www.coinbase.com)
 
+* **Date**: April 27th, 2022
+* **Format**: Technical Interview
+
 Solutions for the technical interview
+
+---
 
 1. Design an API with specific methods.
 2. Given an array of strings (`"<clicks>,<subdomain>.<subdomain>.<tld>"`), find the total number of clicks for each domain (e.g. `<subdomain>`, `<subdomain>.<tld>`, etc.).
